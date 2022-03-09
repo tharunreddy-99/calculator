@@ -1,0 +1,16 @@
+td{
+    size: 50px;
+    background-color: rgb(12, 95, 168);
+    font-size: large;
+}
+.d{
+    font-size: large;
+}
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align:center;
+}
+th{
+    text-align: center;
+}
